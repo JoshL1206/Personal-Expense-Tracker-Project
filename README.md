@@ -41,4 +41,5 @@ To run this application, you need to have the following dependencies installed:
 1cc464572325565c692b244af6b449](https://github.com/JoshL1206/Personal-Expense-Tracker-Project/assets/110563327/4ab8e94e-04b7-4712-ba10-1a0b04b24005)
 ![64ea95e671ad86b3aa794ac79236791d](https://github.com/JoshL1206/Personal-Expense-Tracker-Project/assets/110563327/40bf79cb-0960-4355-b0b4-815436de46d7)
 ![804ab1e0cb9a03b994cb8a157ad1d7e1](https://github.com/JoshL1206/Personal-Expense-Tracker-Project/assets/110563327/debc944f-5bad-46b9-a03a-73d28c6eeb39)
+![45ed3da7b3ac7d2cdb227477fa5cc1fe](https://github.com/JoshL1206/Personal-Expense-Tracker-Project/assets/110563327/d0ba6a27-755a-46a8-b871-da9d379c6317)
 

@@ -1,10 +1,6 @@
 ### Personal Expense Tracker
 The Personal Expense Tracker is a Python application built using Tkinter and SQLite for managing personal expenses. It allows users to add, view, edit, and remove expenses, as well as visualize expense data using line charts, bar charts, and pie charts.
 
-# Expense Tracker
-
-Expense Tracker is a Python application built using Tkinter for managing personal expenses. It allows users to add, view, edit, and remove expenses, as well as visualize expense data using line charts, bar charts, and pie charts.
-
 ## Features
 
 - Add and manage expenses by specifying the date, category, amount, description, and location.
